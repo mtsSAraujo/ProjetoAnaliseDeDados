@@ -30,6 +30,11 @@ Este repositório contém arquivos e códigos utilizados para a análise de dado
   - Plotagem de gráficos relevantes para visualização das análises.
 - **Uso:** Executar este notebook para obter insights estatísticos e previsões futuras com base nos dados tratados.
 
+### 5. trabalhoWorldEconomic.pbix
+- **Descrição:** Arquivo do Power BI contendo os gráficos elaborados com parte da análise dos dados.
+- **Conteúdo:** Visualizações geradas a partir dos dados tratados, possibilitando uma análise mais detalhada e interativa.
+  
+
 ## Como Usar
 
 1. **Tratamento dos Dados:**
